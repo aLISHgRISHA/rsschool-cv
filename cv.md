@@ -1,10 +1,12 @@
 # Divaev Alisher
 
+## Junior Dev
+
 =====
 
 ## **Contact infornation:**
 
- **phone:** +998 93 433 31 20
+ **Phone:** +998 93 433 31 20
  **E-mail:** ad9351alpha@gmail.com
  **Telegram:** @aLISHgRISHA
 
@@ -12,17 +14,19 @@
 
 ## **Briefly About Myself:**
 
-фывфывфывфыв
+I am taking courses on web programming at the school of modern professions "Proweb" and in order to increase knowledge and skills in the front-end, I additionally began studying at the courses "RSschools". I will try not to stand still and develop further.
 
 =====
 
 ## **Skills and Proficiency:**
 
- *HTML5 CSS3
+ *VSCode/Figma
+ *HTML5, CSS3(SASS/SCSS)
+ *Gulp
  *JavaScript Basics
  *VS Code
- *Adobe Photoshop Adobe PremierePro
-
+ *Adobe Photoshop, Adobe PremierePro
+ 
  =====
 
 ## **Code Examples**
@@ -56,11 +60,27 @@ console.log(users);
 
 =====
 
-## **Courses:**
+## **Education and courses:**
 
- *RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
- *ProWeb - Modern professions courses. Web programming - Сreation of sites and applicationsю
+ *Nurobad Professional Industrial College,
+    Faculty of Accountant-Economist.
+
+ *RS Schools Course «JavaScript/Front-end. Stage 0» (in progress).
+
+ *ProWeb - Modern professions courses. Web programming - Сreation of sites and applicationsю (in the process of studying):
+   *HTML5
+   *Css (SASS/SCSS)
+   *JavaScript Basics
+   *Git
+   *Gulp
+   *PHP
 
  =====
 
- 
+## **Languages:**
+  *Russian - Native
+  *English - Primary
+
+  ======
+
+
