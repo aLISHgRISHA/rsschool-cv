@@ -20,12 +20,12 @@ I am taking courses on web programming at the school of modern professions "Prow
 
 ## **Skills and Proficiency:**
 
- *VSCode/Figma
- *HTML5, CSS3(SASS/SCSS)
- *Gulp
- *JavaScript Basics
- *VS Code
- *Adobe Photoshop, Adobe PremierePro
+ * VSCode/Figma
+ * HTML5, CSS3(SASS/SCSS)
+ * Gulp
+ * JavaScript Basics
+ * VS Code
+ * Adobe Photoshop, Adobe PremierePro
  
  
 
@@ -62,25 +62,23 @@ console.log(users);
 
 ## **Education and courses:**
 
- *Nurobad Professional Industrial College,
+ * Nurobad Professional Industrial College,
     Faculty of Accountant-Economist.
 
- *RS Schools Course «JavaScript/Front-end. Stage 0» (in progress).
+ * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress).
 
- *ProWeb - Modern professions courses. Web programming - Сreation of sites and applicationsю (in the process of studying):
-   *HTML5
-   *Css (SASS/SCSS)
-   *JavaScript Basics
-   *Git
-   *Gulp
-   *PHP
+ * ProWeb - Modern professions courses. Web programming - Сreation of sites and applicationsю (in the process of studying):
+   * HTML5
+   * Css (SASS/SCSS)
+   * JavaScript Basics
+   * Git
+   * Gulp
+   * PHP
 
 
 
 ## **Languages:**
-  *Russian - Native
-  *English - Primary
-
-  ======
+  * Russian - Native
+  * English - Primary
 
 
