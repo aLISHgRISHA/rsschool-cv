@@ -2,7 +2,7 @@
 
 ## Junior Dev
 
-=====
+
 
 ## **Contact infornation:**
 
@@ -10,13 +10,13 @@
  **E-mail:** ad9351alpha@gmail.com
  **Telegram:** @aLISHgRISHA
 
-=====
+
 
 ## **Briefly About Myself:**
 
 I am taking courses on web programming at the school of modern professions "Proweb" and in order to increase knowledge and skills in the front-end, I additionally began studying at the courses "RSschools". I will try not to stand still and develop further.
 
-=====
+
 
 ## **Skills and Proficiency:**
 
@@ -27,7 +27,7 @@ I am taking courses on web programming at the school of modern professions "Prow
  *VS Code
  *Adobe Photoshop, Adobe PremierePro
  
- =====
+ 
 
 ## **Code Examples**
 
@@ -58,7 +58,7 @@ for(let key in users) {
 
 console.log(users);
 
-=====
+
 
 ## **Education and courses:**
 
@@ -75,7 +75,7 @@ console.log(users);
    *Gulp
    *PHP
 
- =====
+
 
 ## **Languages:**
   *Russian - Native
