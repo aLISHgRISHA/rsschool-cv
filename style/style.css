@@ -5,7 +5,7 @@
     text-decoration: none;
     box-sizing: border-box;
     list-style: none;
-    /* background: black; */
+    background: black;
 }
 
 .container {
@@ -101,4 +101,123 @@
 }
 .contact__img {
     margin-right: 15px;
+}
+
+.educ__skills__lang {
+    display: flex;
+}
+
+.education__heading-title {
+    font-family: 'Montserrat-Regular';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 36px;
+    line-height: 43.88px;
+    color: #3E3A36;
+    margin: 0 0 25px;
+}
+.education__text {
+    font-family: 'Montserrat-Regular';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 29.26px;
+    color: #3E3A36;
+}
+
+.education__text-el {
+    font-family: 'Montserrat-Regular';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21.94px;
+    color: #3E3A36;
+    margin: 0 0 50px;
+}
+.skills__title {
+    font-family: 'Montserrat-Regular';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+    line-height: 42.67px;  
+    color: #3E3A36;
+    margin: 0 0 26px;
+}
+
+.skills__img {
+    margin: 0 0 60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.lang__title {
+    font-family: 'Montserrat-Regular';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 36px;
+    line-height: 43.88px;  
+    color: #3E3A36;
+    margin: 0 0 10px;
+}
+
+.lang__text {
+    font-family: 'Montserrat-Regular';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 29.26px;  
+    color: #3E3A36;
+    margin: 0 0 50px;
+}
+
+.code__ex-title {
+    text-align: center;
+}
+
+.code__ex-title {
+    font-family: 'Montserrat-Regular';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 36px;
+    line-height: 43.88px;  
+    color: #3E3A36;
+    margin: 0 0 30px;
+}
+
+.code__ex-description {
+    font-family: 'Montserrat-Regular';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 29.26px;  
+    color: #3E3A36;
+}
+
+.code__ex-code {
+    margin-top: 40px;
+    font-family: 'Inconsolata-Light';
+    font-weight: 300;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 18.88px;  
+    color: #ffffff;
+}
+
+.mini-background_img {
+    text-align: center;
+}
+
+.footer__link {
+    display: flex;
+    justify-content: space-between;
+}
+
+.date {
+    font-family: 'Montserrat-Black';
+    font-weight: 900;
+    font-style: normal;
+    font-size: 48px;
+    line-height: 58.51px;  
+    color: #3E3A36;
 }

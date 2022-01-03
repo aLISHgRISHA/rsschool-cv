@@ -27,11 +27,11 @@
                     <h3 class="about__item-heading">
                         Briefly About Myself
                     </h3>
-                    <h3 class="about__item-text">
+                    <p class="about__item-text">
                         I am taking courses on web programming at the school of modern professions "Proweb"<br> <br>and
                         in order to increase knowledge and skills in the front-end,<br> <br>I additionally began studying at
                         the courses "RSschools". I will try not to stand still and develop further.
-                    </h3>
+                    </p>
                 </div>
                 <div class="contact__item">
                     <div class="contact__item-info">
@@ -57,8 +57,101 @@
                     </div>
                 </div>
             </div>
+            <div class="educ__skills__lang">
+                <div class="education">
+                    <div class="education__heading">
+                        <h3 class="education__heading-title">
+                            Education and courses
+                        </h3>
+                        <p class="education__text">
+                            Nurobad Professional Industrial College,<br>
+                            <span class="education__text-el">-Faculty of Accountant-Economist.</span><br>
+                            <br>RS Schools Course<br> 
+                            «JavaScript/Front-end. Stage 0» (in progress).<br>
+                            <br>ProWeb - Modern professions courses.  Web programming - 
+                            Creation of sites and applications  (in the process of studying)<br>
+                            <span class="education__text-el">-HTML5<br>
+                                  -Css (SASS/SCSS)<br>
+                                  -JavaScript Basics<br>
+                                  -Git<br>
+                                  -Gulp<br>
+                                  -PHP
+                                </span>
+                        </p>
+                    </div>
+                </div>
+                <div class="skills__lang">
+                    <div class="skills">
+                        <h3 class="skills__title">
+                            Skills and Proficiency
+                        </h3>
+                        <div class="skills__img">
+                            <a href="https://developer.mozilla.org/ru/docs/Web/HTML"><img src="images/HTML.png" alt="HTML" class="skills__img-el"></a>
+                            <a href="https://developer.mozilla.org/ru/docs/Web/CSS"><img src="images/CSS.png" alt="CSS" class="skills__img-el"></a>
+                            <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript"><img src="images/JS.png" alt="JS" class="skills__img-el"></a>
+                            <a href="https://www.figma.com/"><img src="images/FIGMA.png" alt="FIGMA" class="skills__img-el"></a>
+                            <a href="https://code.visualstudio.com/"><img src="images/VSCode.png" alt="VSCode" class="skills__img-el"></a>
+                            <a href="https://gulpjs.com/"><img src="images/Gulp.png" alt="Gulp" class="skills__img-el"></a>
+                            <a href="https://getbootstrap.com/"><img src="images/Boorstrap.png" alt="Bootstrap" class="skills__img-el"></a>
+                            <a href="https://www.adobe.com/products/photoshop.html"><img src="images/Adobe Ps.png" alt="Adobe Ps" class="skills__img-el"></a>
+                        </div>
+                    </div>
+                    <div class="lang">
+                        <h3 class="lang__title">
+                            Languages
+                        </h3>
+                        <p class="lang__text">
+                            Russian - Native<br>
+                            English - Primary
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="code__ex">
+                <h3 class="code__ex-title">
+                    Code Examples
+                </h3>
+                <span class="code__ex-description">Data are written into the iteration - name and age</span>
+                <p class="code__ex-code">
+                  <pre class="code__ex-code"> let users = {}<br>
+
+                    <br>for(let i = 1; i < 11; i++) {<br>
+                        let userName = prompt('Введите имя:');<br>
+                        let userAge = +prompt('Введите Ваш взраст:');<br>
+
+                        <br>users[i] = {<br>
+                            name: userName,<br>
+                            age: userAge<br>
+                        }<br>
+                    }<br>
+
+                    <br>for(let key in users) {<br>
+                        console.log(`Пользователь ${key}:<br>
+                        Имя: ${users[key].name}.<br>
+                        Возраст: ${users[key].age}.`<br>
+                        );<br>
+                    }<br>
+                        // for(let key in users) {<br>
+                         //     console.log('Пользователь: ' + key + ': ' + 'имя: ' + users[key].name + ', ' + 'возраст: ' + users[key].age);<br>
+                         // }<br>
+
+                         <br>console.log(users);</pre>
+                </p>
+            </div>
+            
+        </div>
+        <div class="mini-background_img">
+            <img src="images/NcmXFKKH1M4 1.png" alt="">
         </div>
     </header>
+    <footer class="footer">
+        <div class="container">
+            <div class="footer__link">
+                <img src="images/RSSCHOOL.png" alt="RSS">
+                <span class="date">2022</span>
+            </div>
+        </div>
+    </footer>
 </body>
 
 </html>
