@@ -99,6 +99,10 @@
 .li {
    color: #3E3A36;
 }
+.li:hover {
+    color: #FF8000;
+    transition: 500ms;
+}
 .contact__img {
     margin-right: 15px;
 }
@@ -138,8 +142,8 @@
     font-family: 'Montserrat-Regular';
     font-weight: 400;
     font-style: normal;
-    font-size: 35px;
-    line-height: 42.67px;  
+    font-size: 34px;
+    line-height: 42px;  
     color: #3E3A36;
     margin: 0 0 26px;
 }
