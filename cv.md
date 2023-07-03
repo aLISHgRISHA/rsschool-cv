@@ -6,7 +6,7 @@
 
 ## **Contact infornation:**
 
- **Phone:** +998 93 433 31 20
+ **Phone:** +998934333120
  **E-mail:** ad9351alpha@gmail.com
  **Telegram:** @aLISHgRISHA
 
