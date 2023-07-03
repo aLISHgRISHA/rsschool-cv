@@ -70,13 +70,14 @@
                             «JavaScript/Front-end. Stage 0» (in progress).<br>
                             <br>ProWeb - Modern professions courses.  Web programming - 
                             Creation of sites and applications  (in the process of studying)<br>
-                            <span class="education__text-el">-HTML5<br>
-                                  -Css (SASS/SCSS)<br>
-                                  -JavaScript Basics<br>
-                                  -Git<br>
-                                  -Gulp<br>
-                                  -PHP
-                                </span>
+                            <span class="education__text-el">
+                                -HTML5<br>
+                                -Css (SASS/SCSS)<br>
+                                -JavaScript Basics<br>
+                                -Git<br>
+                                -Gulp<br>
+                                -PHP
+                            </span>
                         </p>
                     </div>
                 </div>
@@ -113,29 +114,27 @@
                 </h3>
                 <span class="code__ex-description">Data are written into the iteration - name and age</span>
                 <p class="code__ex-code">
-                  <pre class="code__ex-code"> let users = {}<br>
-
-                    <br>for(let i = 1; i < 11; i++) {<br>
-                        let userName = prompt('Введите имя:');<br>
-                        let userAge = +prompt('Введите Ваш взраст:');<br>
-
-                        <br>users[i] = {<br>
-                            name: userName,<br>
-                            age: userAge<br>
+                    <pre class="code__ex-code"> 
+                        let users = {}<br>
+                        <br>for(let i = 1; i < 11; i++) {<br>
+                            let userName = prompt('Введите имя:');<br>
+                            let userAge = +prompt('Введите Ваш взраст:');<br>
+                            <br>users[i] = {<br>
+                                name: userName,<br>
+                                age: userAge<br>
+                            }<br>
                         }<br>
-                    }<br>
-
-                    <br>for(let key in users) {<br>
-                        console.log(`Пользователь ${key}:<br>
-                        Имя: ${users[key].name}.<br>
-                        Возраст: ${users[key].age}.`<br>
-                        );<br>
-                    }<br>
-                        // for(let key in users) {<br>
-                         //     console.log('Пользователь: ' + key + ': ' + 'имя: ' + users[key].name + ', ' + 'возраст: ' + users[key].age);<br>
-                         // }<br>
-
-                         <br>console.log(users);</pre>
+                        <br>for(let key in users) {<br>
+                            console.log(`Пользователь ${key}:<br>
+                            Имя: ${users[key].name}.<br>
+                            Возраст: ${users[key].age}.`<br>
+                            );<br>
+                        }<br>
+                            // for(let key in users) {<br>
+                            //     console.log('Пользователь: ' + key + ': ' + 'имя: ' + users[key].name + ', ' + 'возраст: ' + users[key].age);<br>
+                            // }<br>
+                            <br>console.log(users);
+                    </pre>
                 </p>
             </div>
             
